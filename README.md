@@ -14,6 +14,6 @@
 Welcome to my GitHub! Here's a little bit about me:
 
 - 🔭 I’m currently interested in: React.js & Node.js
-- 🌱 I’m currently learning: Salesforce
+- 🌱 I’m currently learning: Salesforce & Vue.js
 - 📫 How to reach me: jessbjust@gmail.com
 - 😄 Pronouns: she/her
