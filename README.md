@@ -13,7 +13,7 @@
 
 Welcome to my GitHub! Here's a little bit about me:
 
-- 🔭 I’m currently interested in: React.js & Node.js
-- 🌱 I’m currently learning: Next.js & Typescript
+- 🔭 I primarily work with: React.js, Next.js, Typescript, & Node.js
+- 🌱 I’m currently learning: Redux & Firebase tooling
 - 📫 How to reach me: jessbjust@gmail.com | [My LinkedIn profile](https://www.linkedin.com/in/jessica-justice2/)
 - 😄 Pronouns: she/her
